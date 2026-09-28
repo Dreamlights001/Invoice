@@ -1,0 +1,17 @@
+{
+  "LLM_API_URL": "https://open.bigmodel.cn/api/paas/v4",
+  "LLM_API_KEY": "eb0b5782e3d54ba1afd675c39874647a.suMJVdW13yFvV8sm",
+  "LLM_MODEL": "GLM-4.5-Air",
+  "reflect_LLM_API_URL": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "reflect_LLM_API_KEY": "sk-c44390f7d02c4bebadd24f5dbff7bda8",
+  "reflect_LLM_MODEL": "qwen-vl-plus",
+  "EMBEDDING_URL": "https://api.siliconflow.cn/v1/embeddings",
+  "EMBEDDING_API_KEY": "sk-zlclxguwrechihqrwepejeukkldsqdruyufusbxzjaatnphu",
+  "EMBEDDING_MODEL": "BAAI/bge-large-zh-v1.5",
+  "rerank_url": "https://api.siliconflow.cn/v1/rerank",
+  "rerank_api": "sk-zlclxguwrechihqrwepejeukkldsqdruyufusbxzjaatnphu",
+  "rerank_model": "BAAI/bge-reranker-v2-m3",
+  "ocr_base_url": "https://api.siliconflow.cn/v1",
+  "ocr_model": "deepseek-ai/DeepSeek-OCR",
+  "ocr_api_key": "sk-gvgdwtnflkfkgixcprrojoyiwxufgwslktvruvdavfebvilj"
+}
